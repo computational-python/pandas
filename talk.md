@@ -207,7 +207,8 @@ capital        object
 dtype: object
 >>>
 ```
---
+---
+
 ```
 >>> countries.values
 array([['Belgium', 11.3, 30510, 'Brussels'],
@@ -217,8 +218,11 @@ array([['Belgium', 11.3, 30510, 'Brussels'],
        ['United Kingdom', 64.9, 244820, 'London']], dtype=object)
 >>>
 ```
+
 ---
+
 * Info
+
 ```
 >>> countries.info()
 <class 'pandas.core.frame.DataFrame'>
